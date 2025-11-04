@@ -14,7 +14,7 @@ print(df)
 time.sleep(2)
 
 def pirnt():
-    print("Hello world")
+    print("Hello world2")
 def main():
 
     with pynput.keyboard.GlobalHotKeys({
